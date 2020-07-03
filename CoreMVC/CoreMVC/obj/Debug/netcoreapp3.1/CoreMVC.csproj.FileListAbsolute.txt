@@ -12,8 +12,6 @@ C:\Csharp\CoreMVC\CoreMVC\bin\Debug\netcoreapp3.1\CoreMVC.Views.pdb
 C:\Csharp\CoreMVC\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.csprojAssemblyReference.cache
 C:\Csharp\CoreMVC\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.AssemblyInfoInputs.cache
 C:\Csharp\CoreMVC\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.AssemblyInfo.cs
-C:\Csharp\CoreMVC\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.csproj.CoreCompileInputs.cache
-C:\Csharp\CoreMVC\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Csharp\CoreMVC\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.RazorAssemblyInfo.cache
 C:\Csharp\CoreMVC\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.RazorAssemblyInfo.cs
 C:\Csharp\CoreMVC\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.TagHelpers.input.cache
