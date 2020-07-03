@@ -415,3 +415,4 @@ C:\Csharp\CoreMVC\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.csproj.CoreCompileInpu
 C:\Csharp\CoreMVC\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.MvcApplicationPartsAssemblyInfo.cs
 C:\Csharp\CoreMVC\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Csharp\CoreMVC\CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs
+C:\Csharp\CoreMVC\CoreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Books\Upsert.cshtml.g.cs
