@@ -1,0 +1,8 @@
+C:\Csharp\ECommerceCore\Utility\bin\Debug\netcoreapp3.1\Utility.deps.json
+C:\Csharp\ECommerceCore\Utility\bin\Debug\netcoreapp3.1\Utility.dll
+C:\Csharp\ECommerceCore\Utility\bin\Debug\netcoreapp3.1\Utility.pdb
+C:\Csharp\ECommerceCore\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfoInputs.cache
+C:\Csharp\ECommerceCore\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfo.cs
+C:\Csharp\ECommerceCore\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.CoreCompileInputs.cache
+C:\Csharp\ECommerceCore\Utility\obj\Debug\netcoreapp3.1\Utility.dll
+C:\Csharp\ECommerceCore\Utility\obj\Debug\netcoreapp3.1\Utility.pdb

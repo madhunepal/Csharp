@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "DataAccess/1.0.0": {
+      "Utility/1.0.0": {
         "runtime": {
-          "DataAccess.dll": {}
+          "Utility.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "DataAccess/1.0.0": {
+    "Utility/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
