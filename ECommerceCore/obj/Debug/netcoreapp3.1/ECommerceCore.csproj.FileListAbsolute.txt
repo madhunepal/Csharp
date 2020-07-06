@@ -432,3 +432,7 @@ C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\staticwebassets\ECommerceCore.St
 C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\ECommerceCore.dll
 C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\ECommerceCore.pdb
 C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\ECommerceCore.genruntimeconfig.cache
+C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\ECommerceCore.csprojAssemblyReference.cache
+C:\Csharp\ECommerceCore\bin\Debug\netcoreapp3.1\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Csharp\ECommerceCore\bin\Debug\netcoreapp3.1\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\Csharp\ECommerceCore\bin\Debug\netcoreapp3.1\Utility\bin\Debug\netcoreapp3.1\Utility.deps.json
