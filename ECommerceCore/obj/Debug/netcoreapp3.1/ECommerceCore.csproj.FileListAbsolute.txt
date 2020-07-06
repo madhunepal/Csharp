@@ -415,8 +415,6 @@ C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\ECommerceCore.TagHelpers.input.c
 C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\ECommerceCore.TagHelpers.output.cache
 C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\ECommerceCore.RazorCoreGenerate.cache
 C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
@@ -434,5 +432,10 @@ C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\ECommerceCore.pdb
 C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\ECommerceCore.genruntimeconfig.cache
 C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\ECommerceCore.csprojAssemblyReference.cache
 C:\Csharp\ECommerceCore\bin\Debug\netcoreapp3.1\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
-C:\Csharp\ECommerceCore\bin\Debug\netcoreapp3.1\Model\bin\Debug\netcoreapp3.1\Model.deps.json
 C:\Csharp\ECommerceCore\bin\Debug\netcoreapp3.1\Utility\bin\Debug\netcoreapp3.1\Utility.deps.json
+C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+C:\Csharp\ECommerceCore\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
